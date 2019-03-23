@@ -1,0 +1,26 @@
+[
+  {
+    "Version" : "1.13.2",
+    "URL" : "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.13.2.jar"
+  },
+  {
+    "Version" : "1.13.1",
+    "URL" : "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.13.1.jar"
+  },
+  {
+    "Version" : "1.13",
+    "URL" : "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.13.jar"
+  },
+  {
+    "Version" : "1.12.2",
+    "URL" : "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.12.2.jar"
+  },
+  {
+    "Version" : "1.12.1",
+    "URL" : "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.12.1.jar"
+  },
+  {
+    "Version" : "1.12",
+    "URL" : "https://cdn.getbukkit.org/craftbukkit/craftbukkit-1.12.jar"
+  }
+]
